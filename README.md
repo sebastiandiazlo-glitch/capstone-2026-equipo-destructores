@@ -48,7 +48,7 @@ En el contexto del Hub Providencia, el edificio genera diversos residuos recicla
 
 | Integrante | Compromiso SMART |
 |---|---|
-| [Nombre] | [Compromiso] |
+| Sebastián Díaz | Participar activamente en el desarrollo del proyecto, aportando ideas y cumpliendo con las tareas que me sean asignadas durante el desarrollo del desafío |
 | [Nombre] | [Compromiso] |
 | [Nombre] | [Compromiso] |
 
