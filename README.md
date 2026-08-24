@@ -2,21 +2,22 @@
 
 ## Capstone Intermedio 2026
 
-**Equipo:** [Nombre del equipo]  
-**Desafío:** [Nombre breve del desafío]  
-**Contraparte:** [Organización o actor externo, si corresponde]  
+**Equipo:** Los destructores  
+**Desafío:** Gestión y medición de residuos reciclables del Hub
+**Contraparte:** Municipalidad de Providencia / Hub Providencia  
 **Estado actual:** En desarrollo
 
 ![Foto del equipo](imagenes/S01/foto-equipo.jpg)
 
 ## Descripción
 
-[Expliquen en un párrafo qué problema están abordando, para quién y en qué contexto.]
+En el contexto del Hub Providencia, el edificio genera diversos residuos reciclables pero carece de un sistema consolidado para registrar, medir y analizar su generación y recuperación. Estamos abordando este problema mediante el diseño de una solución que permita cuantificar estos residuos y generar un panel de indicadores ambientales. Este proyecto beneficiará directamente al equipo de gestión del Hub, a los laboratorios y a las personas usuarias del edificio, facilitando la toma de decisiones y fortaleciendo las prácticas de economía circular.
 
 ## Equipo
 
 | Integrante | Carrera o especialidad | Rol inicial | Usuario de GitHub |
 |---|---|---|---|
+| [Nombre] | [Carrera] | [Rol] | [@usuario] |
 | [Nombre] | [Carrera] | [Rol] | [@usuario] |
 | [Nombre] | [Carrera] | [Rol] | [@usuario] |
 | [Nombre] | [Carrera] | [Rol] | [@usuario] |
