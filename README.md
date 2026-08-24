@@ -1,4 +1,4 @@
-# [Nombre del proyecto]
+# DESAFÍO 04 | SOSTENIBILIDAD
 
 ## Capstone Intermedio 2026
 
