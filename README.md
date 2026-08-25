@@ -18,7 +18,7 @@ En el contexto del Hub Providencia, el edificio genera diversos residuos recicla
 | Integrante | Carrera o especialidad | Rol inicial | Usuario de GitHub |
 |---|---|---|---|
 | Sebastián Díaz | Informatica | [Rol] | @sebastiandiazlo-glitch |
-| [Nombre] | [Carrera] | [Rol] | [@usuario] |
+| Rivaldo Rodriguez | Electronica | [Rol] | @riva250 |
 | [Nombre] | [Carrera] | [Rol] | [@usuario] |
 | [Nombre] | [Carrera] | [Rol] | [@usuario] |
 
