@@ -24,13 +24,13 @@ En el contexto del Hub Providencia, el edificio genera diversos residuos recicla
 
 ## Valores del equipo
 
-- [Valor 1]
-- [Valor 2]
+- Empatía y Apoyo Mutuo: Escuchar activamente las ideas del equipo y colaborarnos en áreas donde algún integrante tenga menor dominio técnico.
+- Transparencia: Mantener comunicación abierta sobre el avance del trabajo, bloqueos y dificultades cotidianas.
 - [Valor 3]
 
 ## Normas de funcionamiento
 
-1. [Norma 1]
+1. Transparencia en el trabajo: Subir los avances al repositorio de forma progresiva y evitar acumular todo el código o la documentación para el último día
 2. [Norma 2]
 3. [Norma 3]
 4. [Cómo resolveremos desacuerdos]
