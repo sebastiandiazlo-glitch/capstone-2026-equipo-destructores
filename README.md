@@ -46,14 +46,13 @@ Qué supuestos debemos comprobar: Suponemos que los usuarios separarán mejor su
 
 ## Objetivo SMART del equipo
 
-[Escriban un objetivo específico, medible, alcanzable, relevante y acotado en el tiempo.]
-
+Crear y probar un primer prototipo funcional que mida y registre los residuos reciclables del Hub Providencia, juntando la programación, el diseño de procesos y los circuitos electrónicos, antes de finalizar el semestre, para que la administración pueda ver de forma clara los datos de reciclaje y mejorar la economía circular del edificio.
 ## Compromisos individuales
 
 | Integrante | Compromiso SMART |
 |---|---|
 | Sebastián Díaz | Participar activamente en el desarrollo del proyecto, aportando ideas y cumpliendo con las tareas que me sean asignadas durante el desarrollo del desafío |
-| [Nombre] | [Compromiso] |
+| Rivaldo Rodriguez | Configurar y ordenar el repositorio del equipo en GitHub creando las carpetas (bitacora, imagenes, codigos), subiendo los avances semanales, durante todo el semestre, decisiones y código del proyecto queden claros y ordenados. |
 | [Nombre] | [Compromiso] |
 
 ## Usuarios y contexto
