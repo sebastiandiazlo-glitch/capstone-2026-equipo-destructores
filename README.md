@@ -31,14 +31,18 @@ En el contexto del Hub Providencia, el edificio genera diversos residuos recicla
 ## Normas de funcionamiento
 
 1. Transparencia en el trabajo: Subir los avances al repositorio de forma progresiva y evitar acumular todo el código o la documentación para el último día
-2. [Norma 2]
-3. [Norma 3]
-4. [Cómo resolveremos desacuerdos]
-5. [Cómo registraremos las decisiones]
+2. Puntualidad y asistencia: Conectarse puntualmente a las reuniones y avisar con anticipación ante cualquier imprevisto de fuerza mayor.
+3. Uso de la bitácora: Registrar formalmente todas las decisiones, cambios de diseño y pruebas realizadas en la bitácora de GitHub de acuerdo con el ciclo de iteración del curso.
+4. Cómo resolveremos desacuerdos: Mediante un espacio de diálogo enfocado en los datos y la evidencia de las pruebas; si persiste el desacuerdo, se buscará la opinión del equipo docente como guía.
+5. Cómo registraremos las decisiones: Todas las actas, acuerdos y cambios de diseño quedarán estipulados por escrito en las minutas y commits estructurados de la bitácora.
 
 ## Desafío inicial
 
-[Describan el desafío con sus propias palabras. Indiquen qué saben, qué todavía no saben y qué supuestos deben comprobar.]
+Qué sabemos: El Hub Providencia genera residuos reciclables, pero carece de un registro automatizado o consolidado. Tenemos un equipo interdisciplinario (industrial, informático y electrónico) listo para abordar la solución.
+
+Qué todavía no sabemos: Los flujos exactos de retiro, los horarios críticos de acumulación y los requerimientos específicos de visualización de la administración.
+
+Qué supuestos debemos comprobar: Suponemos que los usuarios separarán mejor sus residuos si existen herramientas de medición adecuadas y que la administración está dispuesta a integrar nuevas tecnologías de control.
 
 ## Objetivo SMART del equipo
 
