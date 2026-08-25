@@ -20,7 +20,7 @@ En el contexto del Hub Providencia, el edificio genera diversos residuos recicla
 | Sebastián Díaz | Informatica | [Rol] | @sebastiandiazlo-glitch |
 | Rivaldo Rodriguez | Electronica | [Rol] | @riva250 |
 | Jorge Ormazábal | Industrial | [Rol] | [@JorgeOrmazabal |
-| [Nombre] | [Carrera] | [Rol] | [@usuario] |
+| Sebastian Baez | Ing civil industrial | [Rol] | @seba0404 |
 
 ## Valores del equipo
 
