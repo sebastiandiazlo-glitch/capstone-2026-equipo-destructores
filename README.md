@@ -7,7 +7,7 @@
 **Contraparte:** Municipalidad de Providencia / Hub Providencia  
 **Estado actual:** En desarrollo
 
-![Foto del equipo](imagenes/S01/5a8eaf27-94b9-4976-953e-fbffaadd7b42.jpg)
+![Foto del equipo](imagenes/S02/FotoGrupal.jpeg)
 
 ## Descripción
 
