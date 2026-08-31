@@ -80,7 +80,7 @@ Crear y probar un primer prototipo funcional que mida y registre los residuos re
 
 - [Mapa conceptual del desafío (S02)](imagenes/S02/Mapaconceptual.jpeg)
 - [Foto del equipo en la primera sesión](imagenes/S02/FotoGrupal.jpeg)
-- [Mapa de empatía del desafío](imagenes/S02/Mapadeempatia.jpeg)
+- [Mapa de empatía del desafío](imagenes/S02/Mapadeempatia.png)
 - [Bitácora S01 - Identidad del equipo y desafío](bitacora/S01.md)
 - [Bitácora S02 - Mapa conceptual](bitacora/S02.md)
 
