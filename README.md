@@ -17,17 +17,17 @@ En el contexto del Hub Providencia, el edificio genera diversos residuos recicla
 
 | Integrante | Carrera o especialidad | Rol inicial | Usuario de GitHub |
 |---|---|---|---|
-| Sebastián Díaz | Informatica | [Rol] | @sebastiandiazlo-glitch |
-| Rivaldo Rodriguez | Electronica | [Rol] | @riva250 |
-| Jorge Ormazábal | Industrial | [Rol] | [@JorgeOrmazabal |
+| Sebastián Díaz | Ing civil Informatica | [Rol] | @sebastiandiazlo-glitch |
+| Rivaldo Rodriguez | Ing civil Electronica | [Rol] | @riva250 |
+| Jorge Ormazábal | Industrial | [Rol] | @JorgeOrmazabal |
 | Sebastian Baez | Ing civil industrial | [Rol] | @seba0404 |
-| Camila Gortaire | Informatica | [Rol] |  |
+| Camila Gortaire | Ing civil Informatica | [Rol] |  |
 
 ## Valores del equipo
 
 - Empatía y Apoyo Mutuo: Escuchar activamente las ideas del equipo y colaborarnos en áreas donde algún integrante tenga menor dominio técnico.
 - Transparencia: Mantener comunicación abierta sobre el avance del trabajo, bloqueos y dificultades cotidianas.
-- [Valor 3]
+- Rigor y evidencia: cada afirmación sobre el problema se respalda con datos, observaciones o fuentes registradas en la bitácora.
 
 ## Normas de funcionamiento
 
@@ -58,35 +58,43 @@ Crear y probar un primer prototipo funcional que mida y registre los residuos re
 
 ## Usuarios y contexto
 
-[¿Quiénes viven el problema? ¿Dónde ocurre? ¿Qué evidencia tienen hasta ahora?]
+**¿Quiénes viven el problema?** El equipo de gestión del Hub, que hoy no puede reportar cuánto residuo reciclable se genera ni se recupera, los laboratorios y espacios comunes, que son puntos de generación; y las personas usuarias del edificio (estudiantes, personal de laboratorios y oficinas), que separan residuos sin recibir retroalimentación.
+
+**¿Dónde ocurre?** En oficinas, laboratorios y espacios comunes del edificio del Hub Providencia (Los Jesuitas 881, comuna de Providencia, Santiago).
+
+**¿Qué evidencia tienen hasta ahora? El enunciado del curso confirma que no existe un registro consolidado; el mapa conceptual de S02 identifica actores, causas e impactos; y quedan dos preguntas abiertas sin responder (si ya existen puntos de reciclaje en el Hub y cuántos deberían ser). Falta evidencia de terreno, que se levantará en las próximas sesiones.
 
 ## Plan inicial
 
 | Actividad | Responsable(s) | Fecha | Estado |
 |---|---|---|---|
-| [Actividad] | [Nombre] | [dd-mm-aaaa] | Pendiente |
-| [Actividad] | [Nombre] | [dd-mm-aaaa] | Pendiente |
+| Revisar en equipo el enunciado del desafío y alinear la comprensión del problema | Todo el equipo | 30-08-2026 | Hecho |
+| Construir el mapa conceptual del desafío | Todo el equipo | 25-08-2026 | Hecho |
 
 ## Índice de la bitácora
 
 - [S01 - Identidad del equipo y desafío](bitacora/S01.md)
-- [S02 - Levantamiento inicial](bitacora/S02.md)
-- [S03 - Empatizar](bitacora/S03.md)
+- [S02 - Empatizar](bitacora/S02.md)
 
 ## Evidencias principales
 
-- [Enlace a una prueba, fotografía, dato o documento]
-- [Enlace a una prueba, fotografía, dato o documento]
+- [Mapa conceptual del desafío (S02)](imagenes/S02/Mapaconceptual.jpeg)
+- [Foto del equipo en la primera sesión](imagenes/S02/FotoGrupal.jpeg)
+- [Mapa de empatía del desafío](imagenes/S02/Mapadeempatia.jpeg)
+- [Bitácora S01 - Identidad del equipo y desafío](bitacora/S01.md)
+- [Bitácora S02 - Mapa conceptual](bitacora/S02.md)
 
 ## Decisiones relevantes
 
 | Fecha | Decisión | Evidencia o criterio utilizado |
 |---|---|---|
-| [dd-mm-aaaa] | [Decisión] | [Evidencia] |
+| 18-08-2026 | Nombre del equipo "Los destructores" y contrato de funcionamiento | Acuerdo unánime en S01, registrado en la bitácora |
+| 25-08-2026 | Mantener el foco en entender y medir antes que en soluciones | Enunciado del desafío y preguntas abiertas del mapa conceptual de S02 |
+| 25-08-2026 | El factor humano se trata como parte del problema, no como un supuesto | Mapa conceptual de S02 lo identifica como causa principal |
 
 ## Próximo hito
 
-[Indiquen qué debe lograr el equipo a continuación y cómo comprobarán que lo consiguió.]
+Cerrar la etapa de comprensión del problema.
 
 ## Uso y licencia
 
