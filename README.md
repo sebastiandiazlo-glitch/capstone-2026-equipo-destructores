@@ -52,9 +52,9 @@ Crear y probar un primer prototipo funcional que mida y registre los residuos re
 
 | Integrante | Compromiso SMART |
 |---|---|
-| Sebastián Díaz | Participar activamente en el desarrollo del proyecto, aportando ideas y cumpliendo con las tareas que me sean asignadas durante el desarrollo del desafío |
+|  Sebastián Díaz | Participar activamente en el desarrollo del proyecto, aportando ideas y cumpliendo con las tareas que me sean asignadas durante el desarrollo del desafío |
 | Rivaldo Rodriguez | Configurar y ordenar el repositorio del equipo en GitHub creando las carpetas (bitacora, imagenes, codigos), subiendo los avances semanales, durante todo el semestre, decisiones y código del proyecto queden claros y ordenados. |
-| [Nombre] | [Compromiso] |
+| Sebastián Báez | Apoyar al grupo con mis conocimientos, responder oportunamente las dudas o mensajes y cumplir a tiempo con las tareas asignadas para hacer avanzar el proyecto |
 
 ## Usuarios y contexto
 
