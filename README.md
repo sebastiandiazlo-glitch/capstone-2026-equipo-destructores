@@ -56,6 +56,7 @@ Crear y probar un primer prototipo funcional que mida y registre los residuos re
 | Rivaldo Rodriguez | Configurar y ordenar el repositorio del equipo en GitHub creando las carpetas (bitacora, imagenes, codigos), subiendo los avances semanales, durante todo el semestre, decisiones y código del proyecto queden claros y ordenados. |
 | Sebastián Báez | Apoyar al grupo con mis conocimientos, responder oportunamente las dudas o mensajes y cumplir a tiempo con las tareas asignadas para hacer avanzar el proyecto |
 | Jorge Ormazábal | Participar activamente en el desarrollo de actividades, aportando ideas y respondiendo dudas del equipo. |
+| Camila Gortaire | Contribuir activamente en el desarrollo del proyecto cumpliendo con las tareas de programación y documentación que se me asignen dentro del plazo acordado por el equipo, entregando avances revisables cada semana y comunicando de forma oportuna cualquier dificultad o retraso, durante todo el semestre. |
 
 ## Usuarios y contexto
 
