@@ -59,7 +59,7 @@ Esta ficha reúne toda la información considerada hasta la fecha, organizada se
 
 El edificio del Hub genera residuos reciclables de forma continua, pero no puede cuantificarlos ni analizar su recuperación. Sin esos datos no hay línea base, ni indicadores ambientales, ni forma de sensibilizar con evidencia. En esta etapa el equipo se concentra en **comprender la situación actual**; aún no se proponen soluciones.
 
-## Qué falta 
+## Qué falta saber
 
 1. Cómo se retiran hoy los residuos: quién retira, con qué frecuencia pasa el camión recolector y hacia dónde va el material.
 2. Si ya existen puntos de reciclaje dentro del edificio, cuántos y dónde.
