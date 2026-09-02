@@ -81,4 +81,4 @@ El edificio del Hub genera residuos reciclables de forma continua, pero no puede
 7. ¿Cuál es tu huella? "Conoce los puntos limpios de reciclaje en Providencia (actualizado 2025)." https://www.cualestuhuella.cl/noticia/puntos-limpios/2025/07/conoce-los-puntos-limpios-de-reciclaje-en-providencia-actualizado-2025
 8. País Circular. "Reciclaje domiciliario llega a Providencia tras acuerdo entre ReSimple y municipio." https://www.paiscircular.cl/economia-circular/nuevo-sistema-de-reciclaje-domiciliario-en-providencia/
 9. Mapa conceptual y mapa de empatía del equipo (elaboración propia, sesión S02).
-10. Ministerio del Medio Ambiente de Chile. "Ley 20.920 – Responsabilidad Extendida del Productor (Ley REP)." https://economiacircular.mma.gob.cl/ (ruta exacta por verificar)
+10. Ministerio del Medio Ambiente de Chile. "Ley 20.920 – Responsabilidad Extendida del Productor (Ley REP)." https://economiacircular.mma.gob.cl/ 
