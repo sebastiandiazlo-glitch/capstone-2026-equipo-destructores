@@ -64,7 +64,7 @@ Crear y probar un primer prototipo funcional que mida y registre los residuos re
 
 **¿Dónde ocurre?** En oficinas, laboratorios y espacios comunes del edificio del Hub Providencia (Los Jesuitas 881, comuna de Providencia, Santiago).
 
-**¿Qué evidencia tienen hasta ahora? El enunciado del curso confirma que no existe un registro consolidado; el mapa conceptual de S02 identifica actores, causas e impactos; y quedan dos preguntas abiertas sin responder (si ya existen puntos de reciclaje en el Hub y cuántos deberían ser). Falta evidencia de terreno, que se levantará en las próximas sesiones.
+**¿Qué evidencia tienen hasta ahora?** El enunciado del curso confirma que no existe un registro consolidado; el mapa conceptual de S02 identifica actores, causas e impactos; y quedan dos preguntas abiertas sin responder (si ya existen puntos de reciclaje en el Hub y cuántos deberían ser). Falta evidencia de terreno, que se levantará en las próximas sesiones.
 
 ## Plan inicial
 
@@ -77,6 +77,7 @@ Crear y probar un primer prototipo funcional que mida y registre los residuos re
 
 - [S01 - Identidad del equipo y desafío](bitacora/S01.md)
 - [S02 - Empatizar](bitacora/S02.md)
+- [S03 - Encuadre del problema y presentación](bitacora/S03.md)
 
 ## Evidencias principales
 
@@ -85,6 +86,10 @@ Crear y probar un primer prototipo funcional que mida y registre los residuos re
 - [Mapa de empatía del desafío](imagenes/S02/Mapadeempatia.png)
 - [Bitácora S01 - Identidad del equipo y desafío](bitacora/S01.md)
 - [Bitácora S02 - Mapa conceptual](bitacora/S02.md)
+- [Ficha del desafío](entregas/Ficha-del-desafio.md)
+- [Encuadre del problema (S03)](imagenes/S03/encuadre-del-problema.jpg)
+- [Deck de la presentación (S03)](imagenes/S03/Pitch_de_presentacion.pdf)
+- [Bitácora S03 - Encuadre del problema y presentación](bitacora/S03.md)
 
 ## Decisiones relevantes
 
