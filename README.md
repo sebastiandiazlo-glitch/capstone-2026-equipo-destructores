@@ -78,6 +78,7 @@ Crear y probar un primer prototipo funcional que mida y registre los residuos re
 - [S01 - Identidad del equipo y desafío](bitacora/S01.md)
 - [S02 - Empatizar](bitacora/S02.md)
 - [S03 - Encuadre del problema y presentación](bitacora/S03.md)
+- [S05 - Estado del arte, benchmark y oportunidades de solución](bitacora/S05.md)
 
 ## Evidencias principales
 
@@ -90,6 +91,8 @@ Crear y probar un primer prototipo funcional que mida y registre los residuos re
 - [Encuadre del problema (S03)](imagenes/S03/encuadre-del-problema.jpg)
 - [Deck de la presentación (S03)](imagenes/S03/Pitch_de_presentacion.pdf)
 - [Bitácora S03 - Encuadre del problema y presentación](bitacora/S03.md)
+- [Bitácora S05 - Estado del arte, benchmark y oportunidades de solución](bitacora/S05.md)
+- [Evidencias de actividades S05](imagenes/S05/)
 
 ## Decisiones relevantes
 
@@ -101,7 +104,7 @@ Crear y probar un primer prototipo funcional que mida y registre los residuos re
 
 ## Próximo hito
 
-Cerrar la etapa de comprensión del problema.
+Validar en terreno el flujo real de residuos del Hub: puntos, materiales, responsables, frecuencia de retiro e indicadores requeridos por la administración.
 
 ## Uso y licencia
 
